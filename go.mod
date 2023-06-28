@@ -1,4 +1,4 @@
-module laragon/www/goApp/go-learn-alteraa
+module go-learn-alteraa
 
 go 1.20
 
